@@ -1,5 +1,8 @@
 # Customer Churn Prediction using Machine Learning
 
+![image](https://github.com/user-attachments/assets/94fae002-6055-4d87-a22c-306899043b66)
+
+
 ## Overview
 Customer churn prediction is crucial for businesses, especially in the telecom industry, as it helps identify customers who are likely to stop using services. By accurately predicting churn, companies can proactively implement retention strategies to reduce customer attrition and increase customer satisfaction.
 
